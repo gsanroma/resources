@@ -7,7 +7,7 @@ This is a repository to keep all the interesting resources that I find, usually 
 * [Machine Learning](https://www.coursera.org/learn/machine-learning)
 * [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 * [Convex Optimization - Tibshirani](http://www.stat.cmu.edu/~ryantibs/convexopt/)
-* [Convex Optimization - Boyd](http://web.stanford.edu/class/ee364a/)
+* [Convex Optimization - Boyd](http://web.stanford.edu/~boyd/cvxbook/)
 
 ## Books
 * [Elements of Statistical Learning - Hastie](https://www.springer.com/de/book/9780387848570)
