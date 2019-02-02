@@ -13,3 +13,4 @@ This is a repository to keep all the interesting resources that I find, usually 
 * [Elements of Statistical Learning - Hastie](https://www.springer.com/de/book/9780387848570)
 * [Python Cookbook](http://shop.oreilly.com/product/0636920027072.do)
 * [Fluent Python](http://shop.oreilly.com/product/0636920032519.do)
+* [Linear Algebra and Learning from Data](https://www.amazon.com/Linear-Algebra-Learning-Gilbert-Strang/dp/0692196382)
